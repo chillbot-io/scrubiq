@@ -255,3 +255,81 @@ class TestRegexDetectorGeneral:
         # Verify position is correct
         match = ssn_matches[0]
         assert text[match.start : match.end] == "078-05-1120"
+
+
+class TestMRNDetection:
+    @pytest.fixture
+    def detector(self):
+        return RegexDetector()
+
+    def test_detect_mrn_standard_format(self, detector):
+        text = "Patient MRN: MRN12345678"
+        matches = detector.detect(text)
+
+        mrn_matches = [m for m in matches if m.entity_type == EntityType.MRN]
+        assert len(mrn_matches) == 1
+        assert "12345678" in mrn_matches[0].value
+
+    def test_detect_mrn_with_dash(self, detector):
+        text = "Record: MRN-87654321"
+        matches = detector.detect(text)
+
+        mrn_matches = [m for m in matches if m.entity_type == EntityType.MRN]
+        assert len(mrn_matches) == 1
+
+    def test_detect_mrn_with_colon(self, detector):
+        text = "MRN:12345678"
+        matches = detector.detect(text)
+
+        mrn_matches = [m for m in matches if m.entity_type == EntityType.MRN]
+        assert len(mrn_matches) == 1
+
+    def test_mrn_case_insensitive(self, detector):
+        text = "mrn12345678"
+        matches = detector.detect(text)
+
+        mrn_matches = [m for m in matches if m.entity_type == EntityType.MRN]
+        assert len(mrn_matches) == 1
+
+    def test_mrn_test_data_flagged(self, detector):
+        text = "Test MRN: MRN-00000000"
+        matches = detector.detect(text)
+
+        mrn_matches = [m for m in matches if m.entity_type == EntityType.MRN]
+        assert len(mrn_matches) == 1
+        assert mrn_matches[0].is_test_data
+
+
+class TestHealthPlanIDDetection:
+    @pytest.fixture
+    def detector(self):
+        return RegexDetector()
+
+    def test_detect_hp_standard_format(self, detector):
+        text = "Health Plan ID: HP1234567890"
+        matches = detector.detect(text)
+
+        hp_matches = [m for m in matches if m.entity_type == EntityType.HEALTH_PLAN_ID]
+        assert len(hp_matches) == 1
+
+    def test_detect_hp_with_dash(self, detector):
+        text = "HP-8765432100"
+        matches = detector.detect(text)
+
+        hp_matches = [m for m in matches if m.entity_type == EntityType.HEALTH_PLAN_ID]
+        assert len(hp_matches) == 1
+
+    def test_detect_health_plan_full_prefix(self, detector):
+        text = "Health Plan: 12345678901"
+        matches = detector.detect(text)
+
+        hp_matches = [m for m in matches if m.entity_type == EntityType.HEALTH_PLAN_ID]
+        assert len(hp_matches) == 1
+
+    def test_hp_test_data_flagged(self, detector):
+        text = "Test HP: HP0000000000"
+        matches = detector.detect(text)
+
+        hp_matches = [m for m in matches if m.entity_type == EntityType.HEALTH_PLAN_ID]
+        assert len(hp_matches) == 1
+        assert hp_matches[0].is_test_data

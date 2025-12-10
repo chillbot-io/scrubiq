@@ -1,0 +1,23 @@
+INVOICE
+
+Invoice #: INV-53010
+Date: 12/10/2025
+
+Bill To:
+Robert Smith
+7867 Main St, Clinton, CA 65117
+
+Payment Information:
+Credit Card: 4255613138911031
+Expiration: 04/29
+
+Items:
+  - Subscription 1: $479.90
+  - Product 2: $125.28
+  - Product 3: $207.29
+
+Subtotal: $3,343.83
+Tax: $267.51
+Total: $3,611.34
+
+Thank you for your business!

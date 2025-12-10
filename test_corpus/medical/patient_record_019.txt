@@ -1,0 +1,22 @@
+PRESCRIPTION
+
+Date: 12/10/2025
+
+Patient: Robert Davis
+DOB: 05/25/1991
+MRN: MRN59308909
+
+Rx: Atorvastatin
+Dosage: 500mg
+Quantity: 90
+Refills: 4
+
+Diagnosis: Essential hypertension
+ICD-10: I10
+
+Prescriber: Dr. Jones
+DEA#: A7612343
+NPI: 6719256657
+
+Pharmacy: CVS Pharmacy
+Phone: 514-636-2806

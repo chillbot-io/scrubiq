@@ -1,0 +1,22 @@
+PRESCRIPTION
+
+Date: 12/10/2025
+
+Patient: Emily Brown
+DOB: 11/01/1986
+MRN: MRN60144309
+
+Rx: Amlodipine
+Dosage: 10mg
+Quantity: 30
+Refills: 1
+
+Diagnosis: Type 2 diabetes mellitus
+ICD-10: I10
+
+Prescriber: Dr. Miller
+DEA#: A7281193
+NPI: 7660926702
+
+Pharmacy: CVS Pharmacy
+Phone: 289.815.4157

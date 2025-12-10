@@ -1,0 +1,24 @@
+INVOICE
+
+Invoice #: INV-85174
+Date: 12/10/2025
+
+Bill To:
+Emily Johnson
+1920 First Ave, Georgetown, NY 26984
+
+Payment Information:
+Credit Card: 5410657427057609
+Expiration: 03/29
+
+Items:
+  - Subscription 1: $123.03
+  - Product 2: $224.23
+  - Subscription 3: $333.96
+  - Service 4: $431.87
+
+Subtotal: $3,757.46
+Tax: $300.60
+Total: $4,058.05
+
+Thank you for your business!

@@ -1,0 +1,18 @@
+BENEFITS ENROLLMENT FORM
+
+Employee: Robert Smith
+SSN: 771-95-2653
+DOB: 12/11/1979
+
+Health Plan Selection:
+[X] Premium PPO - Employee + Family
+Health Plan ID: UHC7464659885
+
+Beneficiary Information:
+Name: Michael Brown
+Relationship: Spouse
+SSN: 786-73-7878
+
+Direct Deposit:
+Bank Account: 305958556
+Routing: 268123130

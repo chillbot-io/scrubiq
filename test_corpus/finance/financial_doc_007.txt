@@ -1,0 +1,15 @@
+WIRE TRANSFER CONFIRMATION
+
+Transfer Reference: WT217614599
+Date: 12/10/2025
+
+From Account: 830827656
+Routing Number: 277114927
+
+To: Lisa Garcia
+Account: 620064192
+Amount: $1,854.57
+
+Memo: Invoice Payment
+
+This transfer has been processed successfully.

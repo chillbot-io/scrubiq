@@ -1,0 +1,16 @@
+EMPLOYEE RECORD
+
+Name: Robert Johnson
+Employee ID: EMP84062
+Social Security Number: 890-77-6340
+Date of Birth: 10/24/1974
+Phone: 307-914-7394
+Email: cojmefge@acme.io
+Address: 1589 Oak Ave, Clinton, NY 93102
+
+Department: Operations
+Start Date: 07/08/2022
+Salary: $102,043
+
+Emergency Contact: Jane Garcia
+Emergency Phone: 572-220-2392

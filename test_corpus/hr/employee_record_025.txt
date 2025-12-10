@@ -1,0 +1,18 @@
+BENEFITS ENROLLMENT FORM
+
+Employee: David Davis
+SSN: 715-38-1755
+DOB: 05/20/1960
+
+Health Plan Selection:
+[X] Premium PPO - Employee + Family
+Health Plan ID: HPI6192806680
+
+Beneficiary Information:
+Name: Lisa Jones
+Relationship: Spouse
+SSN: 459-40-4474
+
+Direct Deposit:
+Bank Account: 162888566
+Routing: 134597625

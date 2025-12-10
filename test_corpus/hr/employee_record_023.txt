@@ -1,0 +1,18 @@
+BENEFITS ENROLLMENT FORM
+
+Employee: Emily Johnson
+SSN: 617-64-9878
+DOB: 02/20/1986
+
+Health Plan Selection:
+[X] Premium PPO - Employee + Family
+Health Plan ID: HP3147067216
+
+Beneficiary Information:
+Name: Robert Johnson
+Relationship: Spouse
+SSN: 818-70-8830
+
+Direct Deposit:
+Bank Account: 995956758
+Routing: 499757975

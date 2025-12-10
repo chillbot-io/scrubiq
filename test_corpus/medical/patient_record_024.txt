@@ -1,0 +1,22 @@
+PRESCRIPTION
+
+Date: 12/10/2025
+
+Patient: David Miller
+DOB: 08/16/1973
+MRN: MRN61112464
+
+Rx: Amlodipine
+Dosage: 40mg
+Quantity: 30
+Refills: 0
+
+Diagnosis: Hyperlipidemia
+ICD-10: J06.9
+
+Prescriber: Dr. Johnson
+DEA#: A7878827
+NPI: 3233847158
+
+Pharmacy: Rite Aid
+Phone: 711.211.6849

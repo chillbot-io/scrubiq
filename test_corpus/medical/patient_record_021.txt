@@ -1,0 +1,26 @@
+PATIENT RECORD
+
+Patient: Lisa Jones
+MRN: MRN81518193
+DOB: 04/22/1982
+SSN: 701-54-0867
+
+Address: 7335 Oak Ave, Clinton, FL 20290
+Phone: 935.851.4313
+Email: fsocvhch@acme.io
+
+Insurance:
+Health Plan ID: BCBS7890707588
+Group Number: GRP624833
+
+Primary Care Physician: Dr. Williams
+
+Allergies: Sulfa drugs
+
+Current Medications:
+  - Atorvastatin 20mg twice daily
+  - Omeprazole 40mg daily
+  - Atorvastatin 20mg daily
+
+Medical History:
+No significant history

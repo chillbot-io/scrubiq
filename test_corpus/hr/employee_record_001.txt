@@ -1,0 +1,16 @@
+EMPLOYEE RECORD
+
+Name: David Miller
+Employee ID: EMP48254
+Social Security Number: 555-27-3206
+Date of Birth: 04/18/1967
+Phone: 545-965-4958
+Email: tsohwpqj@company.com
+Address: 5591 Main St, Clinton, CA 45823
+
+Department: Operations
+Start Date: 10/27/2017
+Salary: $170,689
+
+Emergency Contact: David Miller
+Emergency Phone: 867.529.5693

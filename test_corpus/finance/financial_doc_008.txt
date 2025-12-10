@@ -1,0 +1,23 @@
+INVOICE
+
+Invoice #: INV-70022
+Date: 12/10/2025
+
+Bill To:
+Michael Smith
+7469 Park Blvd, Clinton, TX 77025
+
+Payment Information:
+Credit Card: 5142960857622222
+Expiration: 09/27
+
+Items:
+  - Service 1: $108.20
+  - Service 2: $476.95
+  - Subscription 3: $320.27
+
+Subtotal: $3,130.43
+Tax: $250.43
+Total: $3,380.87
+
+Thank you for your business!

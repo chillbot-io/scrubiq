@@ -1,0 +1,22 @@
+INVOICE
+
+Invoice #: INV-10643
+Date: 12/10/2025
+
+Bill To:
+John Brown
+1124 Oak Ave, Clinton, NY 43681
+
+Payment Information:
+Credit Card: 5467064975589681
+Expiration: 02/27
+
+Items:
+  - Product 1: $318.28
+  - Service 2: $314.48
+
+Subtotal: $2,285.60
+Tax: $182.85
+Total: $2,468.45
+
+Thank you for your business!

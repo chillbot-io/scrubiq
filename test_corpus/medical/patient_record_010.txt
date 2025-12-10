@@ -1,0 +1,22 @@
+PRESCRIPTION
+
+Date: 12/10/2025
+
+Patient: John Brown
+DOB: 11/08/1967
+MRN: MRN99530856
+
+Rx: Metformin
+Dosage: 500mg
+Quantity: 90
+Refills: 0
+
+Diagnosis: Type 2 diabetes mellitus
+ICD-10: J06.9
+
+Prescriber: Dr. Garcia
+DEA#: A2433017
+NPI: 3871897455
+
+Pharmacy: CVS Pharmacy
+Phone: 517-465-7329

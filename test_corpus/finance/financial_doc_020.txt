@@ -1,0 +1,16 @@
+PAYMENT RECEIPT
+
+Transaction ID: TXN200276489
+Date: 12/10/2025
+
+Customer: John Garcia
+Email: mnyyocsv@company.com
+Phone: 855.768.4664
+
+Payment Method: Credit Card ending in 4165
+Amount: $1,931.11
+
+Billing Address:
+5194 Elm Street, Springfield, IL 11909
+
+For questions, contact billing@company.com

@@ -1,0 +1,18 @@
+BENEFITS ENROLLMENT FORM
+
+Employee: David Miller
+SSN: 840-67-1497
+DOB: 11/27/1978
+
+Health Plan Selection:
+[X] Premium PPO - Employee + Family
+Health Plan ID: UHC7534804814
+
+Beneficiary Information:
+Name: Jane Williams
+Relationship: Spouse
+SSN: 062-86-2990
+
+Direct Deposit:
+Bank Account: 402799486
+Routing: 796822463

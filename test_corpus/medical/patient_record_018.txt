@@ -1,0 +1,26 @@
+PATIENT RECORD
+
+Patient: Robert Miller
+MRN: MRN60887481
+DOB: 09/12/1981
+SSN: 012-21-5558
+
+Address: 2808 First Ave, Madison, FL 88802
+Phone: (486) 305-8104
+Email: udvkplyx@acme.io
+
+Insurance:
+Health Plan ID: HP7544329253
+Group Number: GRP215207
+
+Primary Care Physician: Dr. Williams
+
+Allergies: None known
+
+Current Medications:
+  - Metformin 40mg twice daily
+  - Lisinopril 40mg daily
+  - Metformin 20mg daily
+
+Medical History:
+No significant history

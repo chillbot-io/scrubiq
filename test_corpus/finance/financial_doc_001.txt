@@ -1,0 +1,15 @@
+WIRE TRANSFER CONFIRMATION
+
+Transfer Reference: WT345784946
+Date: 12/10/2025
+
+From Account: 167194322
+Routing Number: 592398382
+
+To: Michael Miller
+Account: 933790142
+Amount: $984.69
+
+Memo: Services Rendered
+
+This transfer has been processed successfully.

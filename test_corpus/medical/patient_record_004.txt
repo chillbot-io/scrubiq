@@ -1,0 +1,20 @@
+LAB RESULTS
+
+Patient: David Jones
+MRN: MRN92372022
+DOB: 09/16/1990
+
+Collection Date: 12/07/2025
+Report Date: 12/10/2025
+
+Ordering Physician: Dr. Smith
+
+Test Results:
+  Glucose: 107 mg/dL (Normal)
+  Cholesterol: 187 mg/dL (High)
+  Blood Pressure: 139/88 mmHg (Normal)
+
+Interpretation: Results within normal limits
+
+Health Plan ID: HP6931084897
+Authorization #: AUTH249703334

@@ -1,0 +1,26 @@
+PATIENT RECORD
+
+Patient: John Jones
+MRN: MRN21404400
+DOB: 07/19/1981
+SSN: 551-40-3422
+
+Address: 4596 Park Blvd, Madison, TX 50047
+Phone: 639.639.1772
+Email: grubhjkb@acme.io
+
+Insurance:
+Health Plan ID: HP5029365895
+Group Number: GRP346485
+
+Primary Care Physician: Dr. Williams
+
+Allergies: Penicillin
+
+Current Medications:
+  - Amlodipine 10mg twice daily
+  - Metformin 20mg twice daily
+  - Omeprazole 40mg daily
+
+Medical History:
+No significant history

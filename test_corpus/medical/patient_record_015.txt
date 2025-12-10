@@ -1,0 +1,22 @@
+PRESCRIPTION
+
+Date: 12/10/2025
+
+Patient: David Miller
+DOB: 12/19/1941
+MRN: MRN60247563
+
+Rx: Lisinopril
+Dosage: 10mg
+Quantity: 30
+Refills: 2
+
+Diagnosis: Essential hypertension
+ICD-10: E78.5
+
+Prescriber: Dr. Davis
+DEA#: A8294277
+NPI: 6614867385
+
+Pharmacy: Rite Aid
+Phone: (807) 751-2733

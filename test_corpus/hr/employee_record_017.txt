@@ -1,0 +1,18 @@
+BENEFITS ENROLLMENT FORM
+
+Employee: Robert Miller
+SSN: 224-44-5214
+DOB: 02/20/1983
+
+Health Plan Selection:
+[X] Premium PPO - Employee + Family
+Health Plan ID: HPI8558891763
+
+Beneficiary Information:
+Name: Lisa Davis
+Relationship: Spouse
+SSN: 842-78-5521
+
+Direct Deposit:
+Bank Account: 613815327
+Routing: 922782122

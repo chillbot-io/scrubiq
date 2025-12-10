@@ -1,0 +1,16 @@
+EMPLOYEE RECORD
+
+Name: Lisa Miller
+Employee ID: EMP62763
+Social Security Number: 774-16-8289
+Date of Birth: 09/06/1978
+Phone: 454-946-4835
+Email: cjfzswpk@business.org
+Address: 3884 Oak Ave, Madison, CA 41539
+
+Department: Engineering
+Start Date: 06/16/2018
+Salary: $186,225
+
+Emergency Contact: Emily Smith
+Emergency Phone: 924-513-2802

@@ -1,0 +1,20 @@
+LAB RESULTS
+
+Patient: Lisa Williams
+MRN: MRN93052641
+DOB: 07/21/1961
+
+Collection Date: 12/07/2025
+Report Date: 12/10/2025
+
+Ordering Physician: Dr. Jones
+
+Test Results:
+  Glucose: 85 mg/dL (Normal)
+  Cholesterol: 162 mg/dL (High)
+  Blood Pressure: 116/71 mmHg (Normal)
+
+Interpretation: Results within normal limits
+
+Health Plan ID: BCBS2517444841
+Authorization #: AUTH864553813

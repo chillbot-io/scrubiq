@@ -1,0 +1,8 @@
+TEST DOCUMENT - DO NOT USE IN PRODUCTION
+
+Sample SSN: 123-45-6789
+Test Credit Card: 4111111111111111
+Example Phone: 555-555-5555
+Test Email: test@example.com
+
+This document contains test data for validation purposes only.

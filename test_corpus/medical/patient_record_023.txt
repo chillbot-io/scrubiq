@@ -1,0 +1,26 @@
+PATIENT RECORD
+
+Patient: John Johnson
+MRN: MRN10332404
+DOB: 03/15/1993
+SSN: 590-36-7076
+
+Address: 8599 Park Blvd, Madison, IL 85364
+Phone: 664.236.1284
+Email: plplnugd@acme.io
+
+Insurance:
+Health Plan ID: BCBS4366647411
+Group Number: GRP269334
+
+Primary Care Physician: Dr. Brown
+
+Allergies: Penicillin
+
+Current Medications:
+  - Lisinopril 20mg twice daily
+  - Atorvastatin 20mg daily
+  - Metformin 40mg twice daily
+
+Medical History:
+No significant history

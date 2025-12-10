@@ -1,0 +1,25 @@
+PATIENT RECORD
+
+Patient: Emily Jones
+MRN: MRN43190456
+DOB: 02/04/1956
+SSN: 225-48-6838
+
+Address: 4303 Elm Street, Clinton, CA 85989
+Phone: 460-202-5712
+Email: nehxwkwq@company.com
+
+Insurance:
+Health Plan ID: AETNA4517739078
+Group Number: GRP325462
+
+Primary Care Physician: Dr. Garcia
+
+Allergies: None known
+
+Current Medications:
+  - Metformin 40mg twice daily
+  - Lisinopril 40mg daily
+
+Medical History:
+Hyperlipidemia

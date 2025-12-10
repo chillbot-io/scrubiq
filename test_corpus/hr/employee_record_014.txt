@@ -1,0 +1,16 @@
+EMPLOYEE RECORD
+
+Name: Emily Miller
+Employee ID: EMP14634
+Social Security Number: 793-01-8401
+Date of Birth: 04/05/1995
+Phone: 217.705.4401
+Email: dpdnlfoc@business.org
+Address: 9695 Park Blvd, Georgetown, IL 63164
+
+Department: HR
+Start Date: 10/13/2018
+Salary: $58,957
+
+Emergency Contact: David Garcia
+Emergency Phone: 713.266.4210

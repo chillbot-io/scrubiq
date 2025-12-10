@@ -1,0 +1,22 @@
+INVOICE
+
+Invoice #: INV-42859
+Date: 12/10/2025
+
+Bill To:
+Sarah Brown
+7706 Park Blvd, Georgetown, TX 14325
+
+Payment Information:
+Credit Card: 5256931947128076
+Expiration: 04/25
+
+Items:
+  - Service 1: $462.37
+  - Service 2: $304.84
+
+Subtotal: $3,572.86
+Tax: $285.83
+Total: $3,858.68
+
+Thank you for your business!

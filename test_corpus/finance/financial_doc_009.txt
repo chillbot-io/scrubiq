@@ -1,0 +1,16 @@
+PAYMENT RECEIPT
+
+Transaction ID: TXN973312618
+Date: 12/10/2025
+
+Customer: Emily Smith
+Email: zcrqujai@corp.net
+Phone: 489-974-1727
+
+Payment Method: Credit Card ending in 9597
+Amount: $649.43
+
+Billing Address:
+5042 Oak Ave, Madison, FL 24047
+
+For questions, contact billing@company.com

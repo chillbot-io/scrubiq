@@ -1,0 +1,28 @@
+{
+  "generated_at": "2025-12-10T00:14:31.235383",
+  "stats": {
+    "total": 93,
+    "hr": 25,
+    "finance": 25,
+    "medical": 25,
+    "clean": 15,
+    "test_data": 3,
+    "entities_planted": {
+      "ssn": 70,
+      "credit_card": 25,
+      "phone": 25,
+      "email": 25,
+      "name": 0,
+      "address": 0,
+      "mrn": 25,
+      "health_plan_id": 25
+    }
+  },
+  "categories": {
+    "hr": "Employee records, benefits forms - contains SSN, DOB, addresses",
+    "finance": "Invoices, payments - contains credit cards, account numbers",
+    "medical": "Patient records, prescriptions - contains PHI (MRN, health plan ID, diagnoses)",
+    "general": "Clean documents - no sensitive data",
+    "test_data": "Documents with obvious test/fake data that should be flagged"
+  }
+}

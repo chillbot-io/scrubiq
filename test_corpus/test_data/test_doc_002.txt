@@ -1,0 +1,14 @@
+QA VALIDATION DATA
+
+The following are SAMPLE values for testing:
+
+SSN Examples:
+- 000-00-0000 (invalid)
+- 123-45-6789 (test)
+- 111-11-1111 (test)
+
+Credit Card Examples:
+- 4242424242424242 (Stripe test)
+- 5500000000000004 (test Mastercard)
+
+DO NOT USE REAL DATA IN THIS DOCUMENT

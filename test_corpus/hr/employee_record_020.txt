@@ -1,0 +1,16 @@
+EMPLOYEE RECORD
+
+Name: Lisa Johnson
+Employee ID: EMP29183
+Social Security Number: 407-14-1282
+Date of Birth: 07/08/1977
+Phone: 289.659.1503
+Email: wbqrrgyz@business.org
+Address: 3638 Main St, Madison, FL 89732
+
+Department: Sales
+Start Date: 01/09/2022
+Salary: $127,574
+
+Emergency Contact: John Davis
+Emergency Phone: 669.298.4137

@@ -1,0 +1,16 @@
+PAYMENT RECEIPT
+
+Transaction ID: TXN123772167
+Date: 12/10/2025
+
+Customer: Sarah Garcia
+Email: qlwfaorl@business.org
+Phone: 282.462.3109
+
+Payment Method: Credit Card ending in 1319
+Amount: $904.12
+
+Billing Address:
+7856 Oak Ave, Springfield, IL 24964
+
+For questions, contact billing@company.com

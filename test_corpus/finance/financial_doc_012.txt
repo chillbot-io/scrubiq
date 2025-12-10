@@ -1,0 +1,25 @@
+INVOICE
+
+Invoice #: INV-73665
+Date: 12/10/2025
+
+Bill To:
+David Johnson
+2742 First Ave, Madison, IL 86119
+
+Payment Information:
+Credit Card: 4864201294734661
+Expiration: 01/26
+
+Items:
+  - Service 1: $83.69
+  - Product 2: $433.80
+  - Product 3: $389.31
+  - Product 4: $194.95
+  - Subscription 5: $387.15
+
+Subtotal: $3,241.67
+Tax: $259.33
+Total: $3,501.00
+
+Thank you for your business!

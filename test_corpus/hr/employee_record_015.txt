@@ -1,0 +1,18 @@
+BENEFITS ENROLLMENT FORM
+
+Employee: John Brown
+SSN: 304-23-6224
+DOB: 04/01/1974
+
+Health Plan Selection:
+[X] Premium PPO - Employee + Family
+Health Plan ID: UHC9735288544
+
+Beneficiary Information:
+Name: John Garcia
+Relationship: Spouse
+SSN: 548-46-5734
+
+Direct Deposit:
+Bank Account: 509092158
+Routing: 595921382

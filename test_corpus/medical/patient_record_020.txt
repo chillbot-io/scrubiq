@@ -1,0 +1,22 @@
+PRESCRIPTION
+
+Date: 12/10/2025
+
+Patient: Emily Brown
+DOB: 02/17/1995
+MRN: MRN40761854
+
+Rx: Atorvastatin
+Dosage: 40mg
+Quantity: 90
+Refills: 5
+
+Diagnosis: Essential hypertension
+ICD-10: I10
+
+Prescriber: Dr. Johnson
+DEA#: A3059711
+NPI: 2724541869
+
+Pharmacy: CVS Pharmacy
+Phone: 399.901.3340

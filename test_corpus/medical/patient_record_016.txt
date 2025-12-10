@@ -1,0 +1,25 @@
+PATIENT RECORD
+
+Patient: Lisa Miller
+MRN: MRN37257900
+DOB: 12/04/1945
+SSN: 540-30-2925
+
+Address: 1047 First Ave, Madison, FL 86382
+Phone: 897-330-3675
+Email: kcagmeut@company.com
+
+Insurance:
+Health Plan ID: HP9163092456
+Group Number: GRP460902
+
+Primary Care Physician: Dr. Johnson
+
+Allergies: Penicillin
+
+Current Medications:
+  - Omeprazole 20mg daily
+  - Omeprazole 40mg daily
+
+Medical History:
+Hypertension

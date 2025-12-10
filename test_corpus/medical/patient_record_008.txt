@@ -1,0 +1,24 @@
+PATIENT RECORD
+
+Patient: Sarah Miller
+MRN: MRN39306771
+DOB: 07/13/1990
+SSN: 886-31-8289
+
+Address: 5908 Oak Ave, Springfield, FL 61236
+Phone: (718) 602-9678
+Email: hwlnieub@corp.net
+
+Insurance:
+Health Plan ID: HPI3800873939
+Group Number: GRP995417
+
+Primary Care Physician: Dr. Brown
+
+Allergies: None known
+
+Current Medications:
+  - Atorvastatin 10mg twice daily
+
+Medical History:
+No significant history

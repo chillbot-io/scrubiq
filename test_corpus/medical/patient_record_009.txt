@@ -1,0 +1,20 @@
+LAB RESULTS
+
+Patient: Jane Garcia
+MRN: MRN83141404
+DOB: 06/11/1998
+
+Collection Date: 12/07/2025
+Report Date: 12/10/2025
+
+Ordering Physician: Dr. Miller
+
+Test Results:
+  Glucose: 109 mg/dL (Normal)
+  Cholesterol: 205 mg/dL (Normal)
+  Blood Pressure: 134/70 mmHg (Normal)
+
+Interpretation: Some values elevated, follow-up recommended
+
+Health Plan ID: AETNA6910843229
+Authorization #: AUTH596956757

@@ -1,0 +1,27 @@
+PATIENT RECORD
+
+Patient: John Williams
+MRN: MRN22428895
+DOB: 10/15/1974
+SSN: 888-71-7444
+
+Address: 3917 Elm Street, Springfield, CA 58185
+Phone: 477-532-9622
+Email: xambwgzs@acme.io
+
+Insurance:
+Health Plan ID: UHC2897808512
+Group Number: GRP737068
+
+Primary Care Physician: Dr. Davis
+
+Allergies: None known
+
+Current Medications:
+  - Amlodipine 10mg twice daily
+  - Lisinopril 10mg twice daily
+  - Lisinopril 20mg daily
+  - Amlodipine 40mg twice daily
+
+Medical History:
+Hyperlipidemia

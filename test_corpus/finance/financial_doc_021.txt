@@ -1,0 +1,24 @@
+INVOICE
+
+Invoice #: INV-64556
+Date: 12/10/2025
+
+Bill To:
+Jane Jones
+8711 Main St, Springfield, TX 20380
+
+Payment Information:
+Credit Card: 379885379673244
+Expiration: 03/27
+
+Items:
+  - Service 1: $182.16
+  - Product 2: $58.19
+  - Subscription 3: $77.47
+  - Subscription 4: $316.16
+
+Subtotal: $180.08
+Tax: $14.41
+Total: $194.49
+
+Thank you for your business!

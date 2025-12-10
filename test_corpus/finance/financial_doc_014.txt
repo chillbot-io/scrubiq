@@ -1,0 +1,16 @@
+PAYMENT RECEIPT
+
+Transaction ID: TXN286251141
+Date: 12/10/2025
+
+Customer: Michael Miller
+Email: rpswwalq@corp.net
+Phone: (296) 321-1041
+
+Payment Method: Credit Card ending in 2305
+Amount: $1,749.94
+
+Billing Address:
+2955 Park Blvd, Georgetown, TX 24309
+
+For questions, contact billing@company.com

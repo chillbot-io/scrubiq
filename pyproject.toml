@@ -20,6 +20,12 @@ dependencies = [
     "python-pptx>=0.6",
     "extract-msg>=0.45",
     "striprtf>=0.0.26",
+    # Security / Encryption
+    "cryptography>=41.0",
+    "keyring>=24.0",
+    # Microsoft Graph API
+    "msal>=1.24",
+    "httpx>=0.25",
 ]
 
 [project.optional-dependencies]
@@ -29,6 +35,22 @@ dev = [
     "black>=23.0",
     "ruff>=0.1",
     "mypy>=1.5",
+]
+# NLP/NER for better detection of names, addresses
+nlp = [
+    "presidio-analyzer>=2.2",
+    "spacy>=3.0",
+]
+# Training the TP/FP classifier
+training = [
+    "setfit>=1.0",
+    "datasets>=2.0",
+    "sentence-transformers>=2.0",
+]
+# All optional features
+all = [
+    "scrubiq[nlp]",
+    "scrubiq[training]",
 ]
 
 [project.scripts]

@@ -1,0 +1,16 @@
+PAYMENT RECEIPT
+
+Transaction ID: TXN132844372
+Date: 12/10/2025
+
+Customer: Robert Miller
+Email: ahlxlevg@acme.io
+Phone: (823) 209-7813
+
+Payment Method: Credit Card ending in 7886
+Amount: $818.10
+
+Billing Address:
+2400 Park Blvd, Clinton, CA 60907
+
+For questions, contact billing@company.com

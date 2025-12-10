@@ -1,0 +1,18 @@
+BENEFITS ENROLLMENT FORM
+
+Employee: John Jones
+SSN: 438-47-8118
+DOB: 01/23/1976
+
+Health Plan Selection:
+[X] Premium PPO - Employee + Family
+Health Plan ID: AETNA9970440989
+
+Beneficiary Information:
+Name: Lisa Brown
+Relationship: Spouse
+SSN: 149-91-1829
+
+Direct Deposit:
+Bank Account: 321669654
+Routing: 407518142

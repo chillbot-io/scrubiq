@@ -1,0 +1,22 @@
+PRESCRIPTION
+
+Date: 12/10/2025
+
+Patient: Emily Davis
+DOB: 04/18/1963
+MRN: MRN32920850
+
+Rx: Lisinopril
+Dosage: 10mg
+Quantity: 60
+Refills: 2
+
+Diagnosis: Essential hypertension
+ICD-10: J06.9
+
+Prescriber: Dr. Brown
+DEA#: A3716069
+NPI: 1094186371
+
+Pharmacy: Walmart Pharmacy
+Phone: 306.327.5335

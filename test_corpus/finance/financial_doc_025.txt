@@ -1,0 +1,22 @@
+INVOICE
+
+Invoice #: INV-30948
+Date: 12/10/2025
+
+Bill To:
+Jane Johnson
+708 Oak Ave, Springfield, CA 50282
+
+Payment Information:
+Credit Card: 5285798534358639
+Expiration: 01/26
+
+Items:
+  - Product 1: $433.56
+  - Service 2: $206.20
+
+Subtotal: $171.20
+Tax: $13.70
+Total: $184.89
+
+Thank you for your business!

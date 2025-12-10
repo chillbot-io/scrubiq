@@ -1,0 +1,16 @@
+EMPLOYEE RECORD
+
+Name: Sarah Williams
+Employee ID: EMP34585
+Social Security Number: 876-97-9003
+Date of Birth: 11/07/1964
+Phone: 379.926.2688
+Email: mcwwsyay@business.org
+Address: 532 Main St, Riverside, IL 17093
+
+Department: Engineering
+Start Date: 04/06/2017
+Salary: $122,127
+
+Emergency Contact: David Garcia
+Emergency Phone: 297.467.8693

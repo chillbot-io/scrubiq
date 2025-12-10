@@ -1,0 +1,22 @@
+INVOICE
+
+Invoice #: INV-96473
+Date: 12/10/2025
+
+Bill To:
+Emily Smith
+6995 Elm Street, Springfield, FL 72783
+
+Payment Information:
+Credit Card: 5286169224646999
+Expiration: 08/27
+
+Items:
+  - Subscription 1: $489.03
+  - Product 2: $300.54
+
+Subtotal: $1,680.22
+Tax: $134.42
+Total: $1,814.64
+
+Thank you for your business!

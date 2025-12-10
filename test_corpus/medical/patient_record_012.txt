@@ -1,0 +1,22 @@
+PRESCRIPTION
+
+Date: 12/10/2025
+
+Patient: Lisa Johnson
+DOB: 03/26/1978
+MRN: MRN70491606
+
+Rx: Lisinopril
+Dosage: 500mg
+Quantity: 60
+Refills: 0
+
+Diagnosis: Hyperlipidemia
+ICD-10: E11.9
+
+Prescriber: Dr. Davis
+DEA#: A8284306
+NPI: 5849394696
+
+Pharmacy: Rite Aid
+Phone: 857.673.9680

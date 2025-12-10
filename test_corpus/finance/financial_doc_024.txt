@@ -1,0 +1,25 @@
+INVOICE
+
+Invoice #: INV-78332
+Date: 12/10/2025
+
+Bill To:
+Sarah Davis
+4291 Elm Street, Georgetown, TX 17617
+
+Payment Information:
+Credit Card: 341905947306716
+Expiration: 07/28
+
+Items:
+  - Product 1: $434.37
+  - Product 2: $429.23
+  - Subscription 3: $102.10
+  - Product 4: $288.45
+  - Service 5: $188.53
+
+Subtotal: $1,688.47
+Tax: $135.08
+Total: $1,823.55
+
+Thank you for your business!

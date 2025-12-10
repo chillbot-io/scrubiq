@@ -175,12 +175,57 @@ PHONE_PATTERN = Pattern(
     ],
 )
 
+# Medical Record Number (MRN) pattern
+# Common formats: MRN12345678, MRN-12345678, MRN 12345678
+MRN_PATTERN = Pattern(
+    name="medical_record_number",
+    entity_type=EntityType.MRN,
+    regex=re.compile(
+        r"\b"
+        r"(?:MRN|mrn|M\.R\.N\.?)"  # MRN prefix (required for high confidence)
+        r"[-:\s]?"  # Optional separator
+        r"(\d{6,12})"  # 6-12 digit number
+        r"\b",
+        re.IGNORECASE,
+    ),
+    confidence_base=0.85,
+    test_patterns=[
+        "MRN12345678",
+        "MRN-00000000",
+        "MRN-11111111",
+        "MRN00000000",
+    ],
+)
+
+# Health Plan ID pattern
+# Common formats: HP1234567890, HPlan-123456, Health Plan: 1234567890
+HEALTH_PLAN_PATTERN = Pattern(
+    name="health_plan_id",
+    entity_type=EntityType.HEALTH_PLAN_ID,
+    regex=re.compile(
+        r"\b"
+        r"(?:HP|Health\s*Plan(?:\s*ID)?|HPID)"  # HP or Health Plan prefix
+        r"[-:\s#]*"  # Optional separators (multiple allowed)
+        r"(\d{8,12})"  # 8-12 digit number
+        r"\b",
+        re.IGNORECASE,
+    ),
+    confidence_base=0.85,
+    test_patterns=[
+        "HP0000000000",
+        "HP1111111111",
+        "HP1234567890",
+    ],
+)
+
 # All patterns to check
 ALL_PATTERNS = [
     SSN_PATTERN,
     CREDIT_CARD_PATTERN,
     EMAIL_PATTERN,
     PHONE_PATTERN,
+    MRN_PATTERN,
+    HEALTH_PLAN_PATTERN,
 ]
 
 

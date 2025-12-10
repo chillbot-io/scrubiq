@@ -1,0 +1,25 @@
+PATIENT RECORD
+
+Patient: Sarah Johnson
+MRN: MRN57302591
+DOB: 05/23/1973
+SSN: 011-35-4318
+
+Address: 4001 First Ave, Riverside, CA 26029
+Phone: 510-562-3135
+Email: vkvioofq@corp.net
+
+Insurance:
+Health Plan ID: BCBS1579831855
+Group Number: GRP807302
+
+Primary Care Physician: Dr. Jones
+
+Allergies: Latex
+
+Current Medications:
+  - Metformin 40mg twice daily
+  - Lisinopril 40mg daily
+
+Medical History:
+No significant history

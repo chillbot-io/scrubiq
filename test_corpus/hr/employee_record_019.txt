@@ -1,0 +1,16 @@
+EMPLOYEE RECORD
+
+Name: Jane Garcia
+Employee ID: EMP12616
+Social Security Number: 272-11-1056
+Date of Birth: 11/09/1968
+Phone: 727-500-3916
+Email: idbcnpds@business.org
+Address: 4513 Park Blvd, Clinton, NY 20776
+
+Department: Finance
+Start Date: 02/27/2020
+Salary: $59,388
+
+Emergency Contact: Robert Johnson
+Emergency Phone: 436-591-3756

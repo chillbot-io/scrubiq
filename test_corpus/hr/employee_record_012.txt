@@ -1,0 +1,16 @@
+EMPLOYEE RECORD
+
+Name: Jane Brown
+Employee ID: EMP21494
+Social Security Number: 487-99-1746
+Date of Birth: 12/25/1996
+Phone: 684-840-8048
+Email: mpzvncck@business.org
+Address: 2921 Elm Street, Springfield, FL 81753
+
+Department: Sales
+Start Date: 11/05/2023
+Salary: $136,044
+
+Emergency Contact: Robert Brown
+Emergency Phone: 492.313.9468

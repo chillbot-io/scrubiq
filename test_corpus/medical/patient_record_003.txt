@@ -1,0 +1,20 @@
+LAB RESULTS
+
+Patient: Robert Jones
+MRN: MRN19218434
+DOB: 08/12/1984
+
+Collection Date: 12/07/2025
+Report Date: 12/10/2025
+
+Ordering Physician: Dr. Miller
+
+Test Results:
+  Glucose: 97 mg/dL (Normal)
+  Cholesterol: 210 mg/dL (Normal)
+  Blood Pressure: 111/84 mmHg (Normal)
+
+Interpretation: Results within normal limits
+
+Health Plan ID: HP1906461620
+Authorization #: AUTH224010382

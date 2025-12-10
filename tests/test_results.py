@@ -3,7 +3,6 @@
 from datetime import datetime
 from pathlib import Path
 
-import pytest
 
 from scrubiq.scanner.results import (
     Confidence,
@@ -130,9 +129,7 @@ class TestFileResult:
             source="filesystem",
             size_bytes=100,
             modified=datetime.now(),
-            matches=[
-                Match(EntityType.SSN, "123-45-6789", 0, 11, 0.9, "regex", is_test_data=True)
-            ],
+            matches=[Match(EntityType.SSN, "123-45-6789", 0, 11, 0.9, "regex", is_test_data=True)],
         )
         assert not result.has_sensitive_data  # Test data doesn't count
 

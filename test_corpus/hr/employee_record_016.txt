@@ -1,0 +1,18 @@
+BENEFITS ENROLLMENT FORM
+
+Employee: Sarah Garcia
+SSN: 021-61-7399
+DOB: 02/14/1996
+
+Health Plan Selection:
+[X] Premium PPO - Employee + Family
+Health Plan ID: UHC6024461508
+
+Beneficiary Information:
+Name: David Miller
+Relationship: Spouse
+SSN: 891-88-9621
+
+Direct Deposit:
+Bank Account: 921080865
+Routing: 994227702

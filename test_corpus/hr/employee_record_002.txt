@@ -1,0 +1,18 @@
+BENEFITS ENROLLMENT FORM
+
+Employee: Michael Miller
+SSN: 701-54-0973
+DOB: 11/13/1992
+
+Health Plan Selection:
+[X] Premium PPO - Employee + Family
+Health Plan ID: HPI9398643222
+
+Beneficiary Information:
+Name: Robert Brown
+Relationship: Spouse
+SSN: 366-69-9824
+
+Direct Deposit:
+Bank Account: 442971944
+Routing: 760669835

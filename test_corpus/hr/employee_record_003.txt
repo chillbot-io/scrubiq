@@ -1,0 +1,18 @@
+BENEFITS ENROLLMENT FORM
+
+Employee: Lisa Davis
+SSN: 529-03-4308
+DOB: 07/19/1970
+
+Health Plan Selection:
+[X] Premium PPO - Employee + Family
+Health Plan ID: UHC3639829417
+
+Beneficiary Information:
+Name: Sarah Williams
+Relationship: Spouse
+SSN: 882-99-6653
+
+Direct Deposit:
+Bank Account: 168753390
+Routing: 907043209

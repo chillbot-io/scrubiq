@@ -1,0 +1,24 @@
+INVOICE
+
+Invoice #: INV-66135
+Date: 12/10/2025
+
+Bill To:
+Robert Garcia
+2033 Park Blvd, Georgetown, TX 62787
+
+Payment Information:
+Credit Card: 5144072706612327
+Expiration: 05/25
+
+Items:
+  - Service 1: $295.37
+  - Product 2: $249.46
+  - Product 3: $270.61
+  - Service 4: $217.40
+
+Subtotal: $4,858.06
+Tax: $388.64
+Total: $5,246.70
+
+Thank you for your business!

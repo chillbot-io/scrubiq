@@ -1,0 +1,16 @@
+EMPLOYEE RECORD
+
+Name: Jane Williams
+Employee ID: EMP90866
+Social Security Number: 101-82-2445
+Date of Birth: 03/08/1989
+Phone: 591.465.2045
+Email: uukwkeyj@company.com
+Address: 4805 Oak Ave, Georgetown, CA 52595
+
+Department: Sales
+Start Date: 08/28/2015
+Salary: $117,380
+
+Emergency Contact: Emily Johnson
+Emergency Phone: 277.243.4489

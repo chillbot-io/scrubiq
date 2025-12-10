@@ -1,0 +1,24 @@
+INVOICE
+
+Invoice #: INV-61154
+Date: 12/10/2025
+
+Bill To:
+Sarah Johnson
+8995 Park Blvd, Riverside, CA 27070
+
+Payment Information:
+Credit Card: 4997948294564395
+Expiration: 10/28
+
+Items:
+  - Subscription 1: $267.71
+  - Service 2: $336.92
+  - Product 3: $415.95
+  - Subscription 4: $242.24
+
+Subtotal: $3,866.11
+Tax: $309.29
+Total: $4,175.40
+
+Thank you for your business!

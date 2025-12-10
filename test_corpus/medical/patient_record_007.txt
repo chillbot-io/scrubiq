@@ -1,0 +1,25 @@
+PATIENT RECORD
+
+Patient: Sarah Brown
+MRN: MRN14795421
+DOB: 01/02/1993
+SSN: 706-63-9608
+
+Address: 9953 Park Blvd, Springfield, TX 92649
+Phone: 731.956.2249
+Email: bqdwesnk@business.org
+
+Insurance:
+Health Plan ID: AETNA2979900718
+Group Number: GRP341471
+
+Primary Care Physician: Dr. Garcia
+
+Allergies: Penicillin
+
+Current Medications:
+  - Atorvastatin 40mg daily
+  - Atorvastatin 20mg daily
+
+Medical History:
+No significant history

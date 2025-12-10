@@ -1,0 +1,20 @@
+LAB RESULTS
+
+Patient: Michael Garcia
+MRN: MRN91029864
+DOB: 10/07/1994
+
+Collection Date: 12/07/2025
+Report Date: 12/10/2025
+
+Ordering Physician: Dr. Miller
+
+Test Results:
+  Glucose: 83 mg/dL (Normal)
+  Cholesterol: 226 mg/dL (Normal)
+  Blood Pressure: 114/83 mmHg (Normal)
+
+Interpretation: Results within normal limits
+
+Health Plan ID: UHC3946839855
+Authorization #: AUTH899961555

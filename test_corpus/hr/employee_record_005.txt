@@ -1,0 +1,18 @@
+BENEFITS ENROLLMENT FORM
+
+Employee: Michael Johnson
+SSN: 126-71-0122
+DOB: 02/03/1980
+
+Health Plan Selection:
+[X] Premium PPO - Employee + Family
+Health Plan ID: HPI3233431159
+
+Beneficiary Information:
+Name: David Williams
+Relationship: Spouse
+SSN: 799-34-3807
+
+Direct Deposit:
+Bank Account: 710555451
+Routing: 438602050

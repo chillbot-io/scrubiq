@@ -1,0 +1,16 @@
+EMPLOYEE RECORD
+
+Name: Robert Brown
+Employee ID: EMP22761
+Social Security Number: 649-32-7340
+Date of Birth: 11/19/1987
+Phone: (745) 722-7541
+Email: hgjqksac@company.com
+Address: 7850 Oak Ave, Springfield, TX 97752
+
+Department: Operations
+Start Date: 01/18/2018
+Salary: $140,865
+
+Emergency Contact: Emily Davis
+Emergency Phone: (679) 613-4469

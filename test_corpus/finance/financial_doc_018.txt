@@ -1,0 +1,16 @@
+PAYMENT RECEIPT
+
+Transaction ID: TXN919101473
+Date: 12/10/2025
+
+Customer: Robert Garcia
+Email: vvkjvqha@acme.io
+Phone: 327.593.1519
+
+Payment Method: Credit Card ending in 1650
+Amount: $947.60
+
+Billing Address:
+8296 Park Blvd, Clinton, CA 32195
+
+For questions, contact billing@company.com
